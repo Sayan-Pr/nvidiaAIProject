@@ -17,4 +17,5 @@ To run this project:
 
 You have to install python on VS Code to run this code
 
+Watch the video to learn more!
 [2024-08-02 09-40-54.mp4.zip](https://github.com/user-attachments/files/16473109/2024-08-02.09-40-54.mp4.zip)
